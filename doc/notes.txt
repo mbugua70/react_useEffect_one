@@ -1,0 +1,2 @@
+// SIDE EFFECTS //
+- Are task that don't impact the current component render cycle
